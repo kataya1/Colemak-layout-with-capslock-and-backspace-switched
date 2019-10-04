@@ -1,0 +1,1 @@
+a version where capslck and backspace is switched and altgr functionality is kept
