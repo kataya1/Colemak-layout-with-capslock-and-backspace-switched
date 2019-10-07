@@ -2,7 +2,7 @@
 <h1 align="center">custom COLEMAK keyboard layout</h1>
 
 <h5 align="center">a colemak layout with caps and backspace buttons switched and altGR functionality removed</h5>
-<p align = "right">version where altgr is kept <a href ="cmaltgr/">here</a><hr></p>
+<p align = "right">version where altgr is kept <a href ="colemak-altgr-works/">here</a><hr></p>
 <i>
     <h4>Reason</h4>
     <p>making colemak more accessible to beginners</p>
