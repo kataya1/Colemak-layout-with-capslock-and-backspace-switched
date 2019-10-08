@@ -16,7 +16,7 @@
     check images folder in the resources folder for details
     <h4>References</h4>
     <ul>
-        <li><a href="https://forum.colemak.com/topic/870-hacked-msklc-to-enable-remapping-capslock/">colemak layout forums</a></li>
+        <li><a href="https://forum.colemak.com/">colemak layout forums</a></li>
         <li>
         <a href="https://colemak.com/Windows"> official colemak layout website </a></li>
     </ul>
