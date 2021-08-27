@@ -20,7 +20,6 @@
         <li>
         <a href="https://colemak.com/Windows"> official colemak layout website </a></li>
     </ul>
-    <h6 style="color:tomato" >Disclaimer</h6> <small>this might F someones computer however its unlikely that a computer will start smoking</small>
     <p>feel free to fork or use however you like</p>
     
 
